@@ -5,7 +5,7 @@ Transformá conversaciones de LinkedIn en PDFs visuales y prolijos.
 ## Deploy en Vercel (5 minutos)
 
 ### 1. Subir a GitHub
-
+ 
 ```bash
 git init
 git add .
